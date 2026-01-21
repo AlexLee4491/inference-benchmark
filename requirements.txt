@@ -1,0 +1,4 @@
+aiohttp
+matplotlib
+fastapi # for fake_engine.py
+uvicorn # for fake_engine.py
